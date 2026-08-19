@@ -39,10 +39,4 @@ Install the required Python packages using:
 ```bash
 pip install -r requirements.txt
 
-## Running the File
-1. Download or clone this repository.
-2. Install the required packages using the command above.
-3. Open `AI_Dependency_Dashboard.ipynb` in Jupyter Notebook or JupyterLab.
-4. Make sure the dataset file is in the same directory as the notebook.
-5. Run the notebook cells in order.
-6. Run the final cell to launch the Dash dashboard.
+
